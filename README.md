@@ -1,6 +1,6 @@
 # Web Scraping Vertical - Receiteria
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="receiteria.png" alt="Print Site Receiteria">
 
 > Projeto para praticar a técnica de web scraping vertical utilizando a linguagem Python e a biblioteca Scrapy.
 
