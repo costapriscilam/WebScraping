@@ -19,7 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você instalou a versão mais recente de `<Python / Scrapy / Pdb / Logging >`
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Você tenha uma IDE instalada em sua máquina para o desenvolvimento. Eu usei o VSCode
 
 ## ☕ Execução
 
